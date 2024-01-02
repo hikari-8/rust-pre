@@ -9,3 +9,7 @@ rustc main.rs
 ```
 ./main
 ```
+
+### keywords
+
+-   AOT(ahead-of-time) compile
